@@ -7,7 +7,7 @@ categories:
 ---
 - ContentProvider
 - AIDL 进程间通信
-- 信息储存的五种方式
+- 数据储存的五种方式
 - ListView滑动Item的实现方法
 - ListView优化方法(convertView)
 - ViewPager + TabHost + Fragment实现滑动界面
@@ -15,5 +15,6 @@ categories:
 - ANR，不同情况下的超时时间
 - Handler机制
 - App发布后如何收集崩溃信息（setDefaultUncaughtExceptionHandler）
+- TouchEvent的分发过程
 
-考了很多Android细节。无奈没准备好，很多答不上来。。
+考了很多Android概念。无奈没准备好，很多答不上来。。
